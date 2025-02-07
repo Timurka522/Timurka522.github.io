@@ -1,2 +1,2 @@
-# Timurka522.github.io
+# Timurka52.github.io
 Учебник по Git для всех
